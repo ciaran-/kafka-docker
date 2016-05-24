@@ -5,9 +5,9 @@
 kafka-docker
 ============
 
-Dockerfile for [Apache Kafka](http://kafka.apache.org/)
+Dockerfile for [Apache Kafka](http://kafka.apache.org/). Forked from https://github.com/wurstmeister/kafka-docker 
 
-The image is available directly from https://registry.hub.docker.com/
+The actively maintained image is available directly from https://registry.hub.docker.com/
 
 ##Pre-Requisites
 
